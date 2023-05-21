@@ -1,8 +1,10 @@
+package project cross match src.java;
+
 import java.util.InputMismatchException;
 import java.util.Random;
 import java.util.Scanner;
 
-public class project crossmatch  {
+public class TicTacToe {
 	//Display game board with dashes.2D board console output.
 
 	private char gameBoard[] = {' ',' ',' ',' ',' ',' ',' ',' ',' '};

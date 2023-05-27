@@ -1,3 +1,6 @@
+/JAVA PROJECT CROSS MATCH
+
+
 import java.util.InputMismatchException;
 import java.util.Random;
 import java.util.Scanner;
@@ -9,7 +12,7 @@ public class TicTacToe {
 	private final int BOARD_SIZE = 9;// Board is 9 spaces. 
 	
 	public static final char Jawad = 'X';
-	public static final char Your = 'O';
+	public static final char your = 'O';
 	
 	private Random mRand; // Random
 	
